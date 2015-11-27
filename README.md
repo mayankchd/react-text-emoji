@@ -10,3 +10,6 @@ React text to Emoji Component!
 ##Todo
 
 * Publish it as a node module
+
+
+Inspired by Addy Osmani's [Polymer Emoji Text](https://github.com/addyosmani/emoji-text/)
