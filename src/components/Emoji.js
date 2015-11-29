@@ -22,5 +22,4 @@ function Emoji(props) {
 	}
 };
 
-function Emoji(props)
 export default Emoji;
