@@ -1,7 +1,7 @@
 import React from 'react';
 import getEmoji from '../lib/getEmoji';
 
-var Emoji = (props) => {
+function Emoji(props) {
 	let word = props.word;
 	let emoji = getEmoji(word);
 	if(emoji!='')
@@ -22,5 +22,5 @@ var Emoji = (props) => {
 	}
 };
 
-
+function Emoji(props)
 export default Emoji;

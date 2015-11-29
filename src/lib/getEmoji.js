@@ -1,6 +1,6 @@
 import emojis from 'emojilib';
 
-let getEmoji = (keyword) => {
+function getEmoji(keyword) {
 	keyword = keyword.trim().toLowerCase();
 
 	if (!keyword || keyword === '' || keyword === 'it')
