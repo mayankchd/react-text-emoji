@@ -8,7 +8,7 @@ React text to Emoji Component!
 ###Demo - [Here](https://mayankchd.github.io/react-text-emoji)
 
 ##Todo
-* Add tests
+
 * Publish it as a node module
 
 
