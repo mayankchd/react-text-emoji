@@ -1,6 +1,7 @@
 # react-text-emoji
 React text to Emoji Component!
 
+Inspired by Addy Osmani's [Polymer Emoji Text](https://github.com/addyosmani/emoji-text/)
 
 ![SS](http://s15.postimg.org/jfnfs38uj/ezgif_com_gif_maker.gif)
 
@@ -12,4 +13,4 @@ React text to Emoji Component!
 * Publish it as a node module
 
 
-Inspired by Addy Osmani's [Polymer Emoji Text](https://github.com/addyosmani/emoji-text/)
+
