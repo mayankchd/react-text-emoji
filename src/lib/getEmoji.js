@@ -32,13 +32,9 @@ function getEmoji(keyword) {
 				(keywords && keywords.indexOf(keyword) >= 0) ||
 				(keywords && keywords.indexOf(maybeSingular) >= 0) ||
         (keywords && keywords.indexOf(maybePlural) >= 0))
-		{	
-			
+		{
 			if(emojis[emoji].char)
 				return startPuncs+emojis[emoji].char+endPuncs;
-				
-			else
-				return '';
 		}
 
 	}
