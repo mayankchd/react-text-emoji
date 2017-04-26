@@ -6,9 +6,9 @@ Inspired by Addy Osmani's [Polymer Emoji Text](https://github.com/addyosmani/emo
 ![SS](http://s15.postimg.org/jfnfs38uj/ezgif_com_gif_maker.gif)
 
 
-###Demo - [Here](https://mayankchd.github.io/react-text-emoji)
+### Demo - [Here](https://mayankchd.github.io/react-text-emoji)
 
-##Todo
+## Todo
 
 * Publish it as a node module
 
